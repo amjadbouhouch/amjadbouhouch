@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-<a href="https://github.com/amjadbouhouch"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=amjadbouhouch&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/amjadbouhouch"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=amjadbouhouch&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amjed's github stats" /></a>
 
 <td>
 <a href="https://github.com/amjadbouhouch"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadbouhouch&layout=compact&hide_border=true" /></a> 
